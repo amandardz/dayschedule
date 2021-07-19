@@ -1,7 +1,10 @@
 # Work Day Scheduler
 
 ## Description
-In this repository, the developer will modify the starter code to create a calendar application that allows a user to save events for each hour of the work day to manage time effectively.
+The Work Day Scheduler is a web application created with jQuery and Moment.js to create and save events in a daily calendar to manage time effectively.
+
+## Deployed Site
+https://amandardz.github.io/Day-Schedule/
 
 ## Table of Contents
 * [Installation](#installation)
@@ -17,20 +20,24 @@ In this repository, the developer will modify the starter code to create a calen
 6. Open repository in preferred coder editor.
 7. Begin.
 
+## Built With
+* [jQuery](https://jquery.com/) - Front-end framework
+* [Moment.js](https://momentjs.com/) - JavaScript Date/Time Library
+* [BootStrap](https://getbootstrap.com/) - CSS framework
+* [Google Fonts](https://fonts.google.com/) - Font Library
+* [Font Awesome](https://fontawesome.com/) - Font and Icon Library
+
 ## Usage
-To begin, as a developer, think about how the user will interact with the calendar to help break down steps to write and utilize HTML, CSS, and JQuery necessary for it to perform its function. Below are the steps of how user will interact with the calendar:
 1.  When user opens the schedule, they will see current day displayed at the top of the calendar.
 2. As user scrolls down the calendar, they will see time-blocks for each hour in a work day. The time-blocks will be color coded to indicate whether it is in the past (gray), present (red), or future(green)
 3. The user will enter an event in the time-block and click the save button to save that event. 
 4. When the user refreshes the page, the event saved will persist in the time-block.
 <img src="assets\images\dayscheduleimg.PNG" alt="Image of Work Day Schedule">
 
-[Click here to see work day scheduler](https://amandardz.github.io/Day-Schedule/)
-
 ## License
 MIT License
 
-Copyright (c) [2021] [Amanda Rodriguez]
+Copyright (c) 2021 Amanda Rodriguez
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
