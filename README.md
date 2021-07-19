@@ -23,10 +23,10 @@ https://amandardz.github.io/Day-Schedule/
 
 ## Built With
 * [jQuery](https://jquery.com/) - Front-end framework
-* [Moment.js](https://momentjs.com/) - JavaScript Date/Time Library
+* [Moment.js](https://momentjs.com/) - JavaScript date/time library
 * [BootStrap](https://getbootstrap.com/) - CSS framework
-* [Google Fonts](https://fonts.google.com/) - Font Library
-* [Font Awesome](https://fontawesome.com/) - Font and Icon Library
+* [Google Fonts](https://fonts.google.com/) - Font library
+* [Font Awesome](https://fontawesome.com/) - Font and icon library
 
 ## Usage
 1.  When user opens the schedule, they will see current day displayed at the top of the calendar.
