@@ -8,6 +8,7 @@ https://amandardz.github.io/Day-Schedule/
 
 ## Table of Contents
 * [Installation](#installation)
+* [Built With](#built-with)
 * [Usage](#usage)
 * [License](#license)
 
